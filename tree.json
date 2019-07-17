@@ -6,115 +6,115 @@
                 {
                     "name": "Statutory Registers System Management",
                     "group": "#2e75b3",
-                    "value": "40",
+                    "value": 40,
                     "colname": "level3"
                 },
                 {
                     "name": "Power of Delegation Management (role-based)",
                     "group": "#2e75b3",
-                    "value": "40",
+                    "value": 40,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Excellence System Improvement",
                     "group": "#2e75b3",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "External Authorisations & Delegations Quality, Management, & Governance",
                     "group": "#2e75b3",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Complaints / Feedback",
                     "group": "#c45912",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Internal Complaints System Management",
                     "group": "#2e75b3",
-                    "value": "160",
+                    "value": 160,
                     "colname": "level3"
                 },
                 {
                     "name": "Prescribed Appointments (CEO, CSO)",
                     "group": "#2e75b3",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Authorisation Identity Management",
                     "group": "#2e75b3",
-                    "value": "160",
+                    "value": 160,
                     "colname": "level3"
                 },
                 {
                     "name": "Environmental Auditor Quality, Management, & Governance",
                     "group": "#2e75b3",
-                    "value": "160",
+                    "value": 160,
                     "colname": "level3"
                 },
                 {
                     "name": "Environmental Audit",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Complaints & Non-Stat Internal Review",
                     "group": "#2e75b3",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Appointed Analysts (internal & external, e.g. expert witnesses)",
                     "group": "#2e75b3",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Support for External Delegations & Authorisations",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Statutory Internal Decision Review",
                     "group": "#2e75b3",
-                    "value": "320",
+                    "value": 320,
                     "colname": "level3"
                 },
                 {
                     "name": "Appointments to bring Criminal Proceedings",
                     "group": "#2e75b3",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "EPA Appointed External Authorised Officers (e.g. Police, VicRoads)",
                     "group": "#2e75b3",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Externally Authorised Appointments (EPA to monitor)",
                     "group": "#2e75b3",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "EPA Appointed Authorised Officers (internal)",
                     "group": "#2e75b3",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 },
                 {
                     "name": "Appointed Auditors",
                     "group": "#2e75b3",
-                    "value": "720",
+                    "value": 720,
                     "colname": "level3"
                 }
             ],
@@ -126,181 +126,181 @@
                 {
                     "name": "Court Order ",
                     "group": "#bd8e00",
-                    "value": "40",
+                    "value": 40,
                     "colname": "level3"
                 },
                 {
                     "name": "Restorative Justice Adjournment",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Adverse Publicity Order",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Criminal Penalties",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Environmental Audit Order",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "General Restorative & Prevention Order",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Monetary Benefit Order",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Restorative Project Order",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "MOUs",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Legal & Judicial (courts) Influence",
                     "group": "#7a7a7a",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Advisory Panels",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Statutory Conferencing",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Approach / Strategy",
                     "group": "#305496",
-                    "value": "160",
+                    "value": 160,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Program / Campaign Design",
                     "group": "#305496",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Civil Remedy (3rd party & EPA)",
                     "group": "#bd8e00",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Work Allocation",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Mediation & Dispute Resolution",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Non-Statutory Conferencing",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Coverage & Control",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Monitoring & Evaluation",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Planning",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Policy",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Program / Campaign Management",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Stakeholder Consultation & Community Engagement",
                     "group": "#c45912",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Information Sharing",
                     "group": "#c45912",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Prioritisation",
                     "group": "#305496",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 },
                 {
                     "name": "Risk Communications",
                     "group": "#7a7a7a",
-                    "value": "600",
+                    "value": 600,
                     "colname": "level3"
                 },
                 {
                     "name": "Tactical Communications",
                     "group": "#7a7a7a",
-                    "value": "600",
+                    "value": 600,
                     "colname": "level3"
                 },
                 {
                     "name": "Partnership Programs",
                     "group": "#c45912",
-                    "value": "720",
+                    "value": 720,
                     "colname": "level3"
                 },
                 {
                     "name": "Relationship Management",
                     "group": "#c45912",
-                    "value": "960",
+                    "value": 960,
                     "colname": "level3"
                 }
             ],
@@ -312,151 +312,151 @@
                 {
                     "name": "Fees & Payment Management",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Revoke or Suspend Permission",
                     "group": "#538036",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Litter",
                     "group": "#bd8e00",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Motor Vehicles",
                     "group": "#bd8e00",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Registrations",
                     "group": "#538036",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Duty Holder Notification",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Authorisation for Discharges or Disposal (was Emergency Approvals)",
                     "group": "#538036",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Emergency Response Request",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Request for Endorsement (e.g. from industry)",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Application",
                     "group": "#c45912",
-                    "value": "200",
+                    "value": 200,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Submission",
                     "group": "#c45912",
-                    "value": "200",
+                    "value": 200,
                     "colname": "level3"
                 },
                 {
                     "name": "Payments",
                     "group": "#c45912",
-                    "value": "200",
+                    "value": 200,
                     "colname": "level3"
                 },
                 {
                     "name": "Decision Recommendations",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Exemptions",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Permits ",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Support for Planners",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Decision Making / Governance",
                     "group": "#538036",
-                    "value": "320",
+                    "value": 320,
                     "colname": "level3"
                 },
                 {
                     "name": "Better Environment Plans",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Development Licences",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Operating Licenses",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Pilot Licences",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Appeal of VCAT Decision to Supreme Court",
                     "group": "#2e75b3",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Duty Holder Appeal to VCAT",
                     "group": "#2e75b3",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Third Party Appeal to VCAT",
                     "group": "#2e75b3",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Statutory Planning Referrals",
                     "group": "#538036",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 }
             ],
@@ -468,157 +468,157 @@
                 {
                     "name": "Periodic Data Provision",
                     "group": "#7a7a7a",
-                    "value": "60",
+                    "value": 60,
                     "colname": "level3"
                 },
                 {
                     "name": "Outgoing Interactions",
                     "group": "#7a7a7a",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Industry Support Consult Model (internal & external)",
                     "group": "#c45912",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Public Information",
                     "group": "#7a7a7a",
-                    "value": "160",
+                    "value": 160,
                     "colname": "level3"
                 },
                 {
                     "name": "Co-design & Collaboration",
                     "group": "#c45912",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "EPA Positions (legal positions)",
                     "group": "#538036",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Content Management",
                     "group": "#7a7a7a",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Operational Data",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Data Management",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Forecasting",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Knowledge",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Emerging Issues of Environmental Concern",
                     "group": "#305496",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Major Infrastructure Planning Influence",
                     "group": "#7a7a7a",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Education / Information Campaigns",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Codes",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Industry Guidance",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulations",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "External Data",
                     "group": "#305496",
-                    "value": "400",
+                    "value": 400,
                     "colname": "level3"
                 },
                 {
                     "name": "Public Communications",
                     "group": "#7a7a7a",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Operational Insights / Intelligence",
                     "group": "#305496",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Data Collection",
                     "group": "#305496",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Guidance / Advice ",
                     "group": "#c45912",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Emerging Issue Specific Regulatory Management",
                     "group": "#305496",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Analytics",
                     "group": "#305496",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 },
                 {
                     "name": "Research & Development",
                     "group": "#305496",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 },
                 {
                     "name": "Policy Input & Influence",
                     "group": "#7a7a7a",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 }
             ],
@@ -630,31 +630,31 @@
                 {
                     "name": "Cost Recovery",
                     "group": "#bd8e00",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Enquiry",
                     "group": "#c45912",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Citizen Interaction ",
                     "group": "#c45912",
-                    "value": "200",
+                    "value": 200,
                     "colname": "level3"
                 },
                 {
                     "name": "Community Programs",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Community Register",
                     "group": "#c45912",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 }
             ],
@@ -666,19 +666,19 @@
                 {
                     "name": "Septic Tank Design Approval",
                     "group": "#bd8e00",
-                    "value": "20",
+                    "value": 20,
                     "colname": "level3"
                 },
                 {
                     "name": "Permission Change",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Emergency Response",
                     "group": "#7a7a7a",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 }
             ],
@@ -690,97 +690,97 @@
                 {
                     "name": "Civil Penalties",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Advice",
                     "group": "#bd8e00",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Directions",
                     "group": "#bd8e00",
-                    "value": "160",
+                    "value": 160,
                     "colname": "level3"
                 },
                 {
                     "name": "Site Visit / Inspection",
                     "group": "#bd8e00",
-                    "value": "200",
+                    "value": 200,
                     "colname": "level3"
                 },
                 {
                     "name": "Infringements",
                     "group": "#bd8e00",
-                    "value": "200",
+                    "value": 200,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Requirements Management",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Site Management Orders",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Official Warning",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Exercise Clean Up Powers",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Notices",
                     "group": "#bd8e00",
-                    "value": "320",
+                    "value": 320,
                     "colname": "level3"
                 },
                 {
                     "name": "Enforceable Undertakings",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Assessment",
                     "group": "#bd8e00",
-                    "value": "400",
+                    "value": 400,
                     "colname": "level3"
                 },
                 {
                     "name": "Comprehensive Investigation / Case Development",
                     "group": "#bd8e00",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Preliminary Assessment / Investigation / Case Development",
                     "group": "#bd8e00",
-                    "value": "360",
+                    "value": 360,
                     "colname": "level3"
                 },
                 {
                     "name": "Civil Penalties Proceedings",
                     "group": "#bd8e00",
-                    "value": "480",
+                    "value": 480,
                     "colname": "level3"
                 },
                 {
                     "name": "Criminal Prosecution",
                     "group": "#bd8e00",
-                    "value": "720",
+                    "value": 720,
                     "colname": "level3"
                 }
             ],
@@ -792,61 +792,61 @@
                 {
                     "name": "Waste Categorisation & Tracking",
                     "group": "#bd8e00",
-                    "value": "20",
+                    "value": 20,
                     "colname": "level3"
                 },
                 {
                     "name": "Waste Levy",
                     "group": "#bd8e00",
-                    "value": "80",
+                    "value": 80,
                     "colname": "level3"
                 },
                 {
                     "name": "Public Register",
                     "group": "#7a7a7a",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Compliance Reporting ",
                     "group": "#bd8e00",
-                    "value": "100",
+                    "value": 100,
                     "colname": "level3"
                 },
                 {
                     "name": "Environmentally Hazardous Substances",
                     "group": "#538036",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Gazetted Inclusions & Exclusions",
                     "group": "#538036",
-                    "value": "120",
+                    "value": 120,
                     "colname": "level3"
                 },
                 {
                     "name": "Duty Holder Performance & Compliance Reporting",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Financial Assurance",
                     "group": "#bd8e00",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "OMLI & External Responsibilities Management",
                     "group": "#7a7a7a",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 },
                 {
                     "name": "Environmental Reference Standards (ERS)",
                     "group": "#538036",
-                    "value": "240",
+                    "value": 240,
                     "colname": "level3"
                 }
             ],
