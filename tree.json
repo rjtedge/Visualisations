@@ -1,35 +1,110 @@
 {
     "children": [
         {
-            "name": "boss1",
+            "name": "Response – non-discretionary – statutory",
             "children": [
                 {
-                    "name": "Permits",
+                    "name": "Statutory Registers System Management",
                     "group": "A",
-                    "value": 20,
+                    "value": 28,
                     "colname": "level3"
                 },
                 {
-                    "name": "Licences",
+                    "name": "Power of Delegation Management (role-based)",
                     "group": "A",
-                    "value": 5,
+                    "value": 19,
                     "colname": "level3"
                 },
                 {
-                    "name": "Notices",
-                    "group": "A",
+                    "name": "Regulatory Excellence System Improvement",
+                    "group": "C",
                     "value": 18,
                     "colname": "level3"
                 },
                 {
-                    "name": "Other",
-                    "group": "A",
+                    "name": "External Authorisations & Delegations Quality, Management, & Governance",
+                    "group": "C",
                     "value": 19,
+                    "colname": "level3"
+                }
+            ],
+            "colname": "level2"
+        },
+        {
+            "name": "Response - Discretionary",
+            "children": [
+                {
+                    "name": "General Restorative & Prevention Order",
+                    "group": "C",
+                    "value": 14,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Monetary Benefit Order",
+                    "group": "A",
+                    "value": 11,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Restorative Project Order",
+                    "group": "B",
+                    "value": 15,
+                    "colname": "level3"
+                },
+                {
+                    "name": "MOUs",
+                    "group": "B",
+                    "value": 16,
+                    "colname": "level3"
+                }
+            ],
+            "colname": "level2"
+        },
+        {
+            "name": "Statutory driven – non-discretionary – statutory",
+            "children": [
+                {
+                    
+                    
+                    
+                    "name": "Duty Holder Performance & Compliance Reporting",
+                    "group": "B",
+                    "value": 10,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Financial Assurance",
+                    "group": "A",
+                    "value": 13,
+                    "colname": "level3"
+                },
+                {
+                    "name": "OMLI & External Responsibilities Management",
+                    "group": "A",
+                    "value": 13,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Environmental Reference Standards (ERS)",
+                    "group": "D",
+                    "value": 25,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Waste Categorisation & Tracking",
+                    "group": "D",
+                    "value": 16,
+                    "colname": "level3"
+                },
+                {
+                    "name": "Civil Penalties Proceedings",
+                    "group": "D",
+                    "value": 28,
                     "colname": "level3"
                 }
             ],
             "colname": "level2"
         }
     ],
-    "name": "Compliance"
+    "name": "CEO"
 }
