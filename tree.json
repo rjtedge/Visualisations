@@ -5,25 +5,25 @@
             "children": [
                 {
                     "name": "Statutory Registers System Management",
-                    "group": "A",
+                    "group": "#f55442",
                     "value": 28,
                     "colname": "level3"
                 },
                 {
                     "name": "Power of Delegation Management (role-based)",
-                    "group": "A",
+                    "group": "#f55442",
                     "value": 19,
                     "colname": "level3"
                 },
                 {
                     "name": "Regulatory Excellence System Improvement",
-                    "group": "C",
+                    "group": "#b632e6",
                     "value": 18,
                     "colname": "level3"
                 },
                 {
                     "name": "External Authorisations & Delegations Quality, Management, & Governance",
-                    "group": "C",
+                    "group": "#b632e6",
                     "value": 19,
                     "colname": "level3"
                 }
@@ -35,25 +35,25 @@
             "children": [
                 {
                     "name": "General Restorative & Prevention Order",
-                    "group": "C",
+                    "group": "#b632e6",
                     "value": 14,
                     "colname": "level3"
                 },
                 {
                     "name": "Monetary Benefit Order",
-                    "group": "A",
+                    "group": "#f55442",
                     "value": 11,
                     "colname": "level3"
                 },
                 {
                     "name": "Restorative Project Order",
-                    "group": "B",
+                    "group": "#4281f5",
                     "value": 15,
                     "colname": "level3"
                 },
                 {
                     "name": "MOUs",
-                    "group": "B",
+                    "group": "#4281f5",
                     "value": 16,
                     "colname": "level3"
                 }
@@ -65,37 +65,37 @@
             "children": [
                 {
                     "name": "Duty Holder Performance & Compliance Reporting",
-                    "group": "B",
+                    "group": "#4281f5",
                     "value": 10,
                     "colname": "level3"
                 },
                 {
                     "name": "Financial Assurance",
-                    "group": "A",
+                    "group": "#f55442",
                     "value": 13,
                     "colname": "level3"
                 },
                 {
                     "name": "OMLI & External Responsibilities Management",
-                    "group": "A",
+                    "group": "#f55442",
                     "value": 13,
                     "colname": "level3"
                 },
                 {
                     "name": "Environmental Reference Standards (ERS)",
-                    "group": "D",
+                    "group": "#b632e6",
                     "value": 25,
                     "colname": "level3"
                 },
                 {
                     "name": "Waste Categorisation & Tracking",
-                    "group": "D",
+                    "group": "#b632e6",
                     "value": 16,
                     "colname": "level3"
                 },
                 {
                     "name": "Civil Penalties Proceedings",
-                    "group": "D",
+                    "group": "#b632e6",
                     "value": 28,
                     "colname": "level3"
                 }
