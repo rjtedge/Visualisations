@@ -1,0 +1,291 @@
+{
+    "nodes": [
+        {
+            "name": "Site Visit / Inspection",
+            "id": "Site Visit / Inspection"
+        },
+        {
+            "name": "Compliance Work Allocation",
+            "id": "Compliance Work Allocation"
+        },
+        {
+            "name": "Compliance Assessment",
+            "id": "Compliance Assessment"
+        },
+        {
+            "name": "Incoming interactions",
+            "id": "Incoming interactions"
+        },
+        {
+            "name": "Duty Holder Performance and Compliance Reporting�",
+            "id": "Duty Holder Performance and Compliance Reporting�"
+        },
+        {
+            "name": "Waste Management",
+            "id": "Waste Management"
+        },
+        {
+            "name": "Finance Assurance",
+            "id": "Finance Assurance"
+        },
+        {
+            "name": "Landfill Levy",
+            "id": "Landfill Levy"
+        },
+        {
+            "name": "Civil Remedy",
+            "id": "Civil Remedy"
+        },
+        {
+            "name": "Environment Audits",
+            "id": "Environment Audits"
+        },
+        {
+            "name": "Notices",
+            "id": "Notices"
+        },
+        {
+            "name": "Site Management Orders",
+            "id": "Site Management Orders"
+        },
+        {
+            "name": "Adverse Publicity Order",
+            "id": "Adverse Publicity Order"
+        },
+        {
+            "name": "Court Order",
+            "id": "Court Order"
+        },
+        {
+            "name": "Environmental Audit Order",
+            "id": "Environmental Audit Order"
+        },
+        {
+            "name": "General Restorative and Prevention Order",
+            "id": "General Restorative and Prevention Order"
+        },
+        {
+            "name": "Monetary Benefit Order",
+            "id": "Monetary Benefit Order"
+        },
+        {
+            "name": "Restorative Project Order",
+            "id": "Restorative Project Order"
+        },
+        {
+            "name": "Data Collection",
+            "id": "Data Collection"
+        },
+        {
+            "name": "Compliance Program /Campaign Design",
+            "id": "Compliance Program /Campaign Design"
+        },
+        {
+            "name": "Site Visit/Inspection�",
+            "id": "Site Visit/Inspection�"
+        },
+        {
+            "name": "Operational Data",
+            "id": "Operational Data"
+        },
+        {
+            "name": "Outgoing Interactions",
+            "id": "Outgoing Interactions"
+        },
+        {
+            "name": "Compliance Advice",
+            "id": "Compliance Advice"
+        },
+        {
+            "name": "Emergency Response",
+            "id": "Emergency Response"
+        }
+    ],
+    "links": [
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Emergency Response"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Work Allocation"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Assessment"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Operational Data"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Outgoing Interactions"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Work Allocation"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Compliance Assessment"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Emergency Response"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Compliance Advice"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Assessment"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Compliance Assessment"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Civil Remedy"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Environment Audits"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Notices"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Site Management Orders"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Adverse Publicity Order"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Court Order"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Environmental Audit Order"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "General Restorative and Prevention Order"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Monetary Benefit Order"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Restorative Project Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Compliance Work Allocation"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Incoming interactions"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Duty Holder Performance and Compliance Reporting�"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Waste Management"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Finance Assurance"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Landfill Levy"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Work Allocation"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Civil Remedy"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Environment Audits"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Notices"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Site Management Orders"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Adverse Publicity Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Court Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Environmental Audit Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "General Restorative and Prevention Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Monetary Benefit Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Restorative Project Order"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Data Collection"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Compliance Program /Campaign Design"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Assessment"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Work Allocation"
+        },
+        {
+            "source": "Site Visit / Inspection",
+            "target": "Compliance Assessment"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Operational Data"
+        },
+        {
+            "source": "Compliance Work Allocation",
+            "target": "Outgoing Interactions"
+        },
+        {
+            "source": "Compliance Assessment",
+            "target": "Compliance Advice"
+        }
+    ],
+    "attributes": {}
+}
