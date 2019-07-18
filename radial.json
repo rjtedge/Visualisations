@@ -56,35 +56,35 @@
             "source": "1",
             "target": "2",
             "chapters": [
-                "4.12.3"
+               "Permits"
             ]
         },
         {
             "source": "1",
             "target": "3",
             "chapters": [
-                "4.8.4"
+                "Permits"
             ]
         },
         {
             "source": "1",
             "target": "7",
             "chapters": [
-                "3.8.4"
+                "Permits"
             ]
         },
         {
             "source": "2",
             "target": "3",
             "chapters": [
-                "4.8.4"
+               "Permits"
             ]
         },
         {
             "source": "2",
             "target": "6",
             "chapters": [
-                "4.12.8"
+                "Permits"
             ]
         },
         {
@@ -92,21 +92,21 @@
             "target": "2",
             "chapters": [
 
-                "1.3.4"
+                "Permits"
             ]
         },
         {
             "source": "5",
             "target": "2",
             "chapters": [
-                "1.8.5"
+               "Permits"
             ]
         },
         {
             "source": "4",
             "target": "6",
             "chapters": [
-                "4.12.3"
+               "Permits"
             ]
         }
     ]
