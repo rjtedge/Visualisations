@@ -1,0 +1,47 @@
+source,target,value
+Site Visit / Inspection,Emergency Response,1
+Site Visit / Inspection,Compliance Work Allocation,1
+Site Visit / Inspection,Compliance Assessment,1
+Compliance Work Allocation,Operational Data,1
+Compliance Work Allocation,Outgoing Interactions,1
+Compliance Work Allocation,Site Visit/Inspection ,1
+Compliance Work Allocation,Compliance Assessment,1
+Compliance Work Allocation,Emergency Response,1
+Compliance Assessment,Compliance Advice,1
+Compliance Assessment,Site Visit/Inspection ,1
+Compliance Assessment,Compliance Work Allocation,1
+Compliance Assessment,Civil Remedy,1
+Compliance Assessment,Environment Audits,1
+Compliance Assessment,Notices,1
+Compliance Assessment,Site Management Orders,1
+Compliance Assessment,Adverse Publicity Order,1
+Compliance Assessment,Court Order,1
+Compliance Assessment,Environmental Audit Order,1
+Compliance Assessment,General Restorative & Prevention Order,1
+Compliance Assessment,Monetary Benefit Order,1
+Compliance Assessment,Restorative Project Order,1
+Compliance Work Allocation,Compliance Work Allocation,1
+Incoming interactions,Compliance Work Allocation,1
+Duty Holder Performance & Compliance Reporting ,Compliance Work Allocation,1
+Waste Management,Compliance Work Allocation,1
+Finance Assurance,Compliance Work Allocation,1
+Landfill Levy,Compliance Work Allocation,1
+Site Visit/Inspection,Compliance Work Allocation,1
+Civil Remedy,Compliance Work Allocation,1
+Environment Audits,Compliance Work Allocation,1
+Notices,Compliance Work Allocation,1
+Site Management Orders,Compliance Work Allocation,1
+Adverse Publicity Order,Compliance Work Allocation,1
+Court Order,Compliance Work Allocation,1
+Environmental Audit Order,Compliance Work Allocation,1
+General Restorative & Prevention Order,Compliance Work Allocation,1
+Monetary Benefit Order,Compliance Work Allocation,1
+Restorative Project Order,Compliance Work Allocation,1
+Data Collection,Compliance Work Allocation,1
+Compliance Program /Campaign Design,Compliance Assessment,1
+Site Visit/Inspection ,Compliance Assessment,1
+Compliance Work Allocation,Site Visit / Inspection,1
+Compliance Assessment,Site Visit / Inspection,1
+Operational Data,Compliance Work Allocation,1
+Outgoing Interactions,Compliance Work Allocation,1
+Compliance Advice,Compliance Assessment,1
